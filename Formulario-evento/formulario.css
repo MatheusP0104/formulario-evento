@@ -1,0 +1,139 @@
+body{
+    background-color: #f7951dea;
+}
+.container{
+    position: absolute;
+    width: 659px;
+    height: 905px; 
+    left: 33%;
+    top:30px;
+    box-shadow: 10px 7px 14px 0px rgba(50, 50, 50, 10);
+
+    background: linear-gradient(209.59deg, #014484 22.62%, #326597 99.66%);
+    border-radius: 27px;
+}
+
+.nomeh1 {
+    position: absolute;
+    left: 15%;
+    top: 3.45%;
+    color: white;
+    font-family: 'Inder';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+}
+
+
+.emailh1 {
+    position: absolute;
+    left: 38%;
+    top: 15.45%;
+    color: white;
+    font-family: 'Inder';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+}
+
+.teleh1 {
+    position: absolute;
+    left: 38%;
+    top: 25.8%;
+    color: white;
+    font-family: 'Inder';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+}
+
+.nome_input {
+    background: none;
+    border-top: none ;
+    border-left: none;
+    border-right: none;
+    border-bottom: 3px solid white;
+    outline: none;
+    color: white;
+
+    width: 450px;
+    font-size: 30px;
+    position: absolute;
+    left: 15%;
+    top: 12%;
+}
+::placeholder{
+    color: white;
+    font-family: 'Inder';
+    font-style: normal;
+}
+input::-webkit-input-placeholder{
+    color: #999;
+}
+input:focus::-webkit-input-placeholder{
+    position: relative;
+    top: -20px;
+    
+}
+.email_input {
+    background: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 3px solid white;
+    outline: none;
+    color: white;
+
+    width: 450px;
+    font-size: 30px;
+    position: absolute;
+    left: 38.1%;
+    top: 25%;
+}
+
+.tele_input {
+    background: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 3px solid white;
+    outline: none;
+    color: white;
+
+    width: 450px;
+    font-size: 30px;
+    position: absolute;
+    left: 38.1%;
+    top: 36%;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* #toggle{
+    position: relative;
+    top: 300px;
+    display: flex;
+    margin: auto;
+    width: 15px;
+    height: 15px;
+}
+#teste{
+    background-color: #f79d2fea;
+    border-top: white;
+    border-left: white;
+    border-right: white;
+    border-bottom: solid 3px rgb(44, 44, 134);
+    outline: none;
+    color: white;
+    font-size: 20px;
+} */
+
+/*f79d2fea*/
